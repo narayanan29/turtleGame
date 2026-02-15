@@ -6,7 +6,7 @@ A simple **Turtle Race Game** built using Python’s **turtle graphics** module.
 In this game, the user places a bet on a turtle color, and six turtles race across the screen. The winner is chosen randomly based on movement speed.
 
 
-## Technologies Used
+ Technologies Used
 
 * Python 3
 * Built-in `turtle` module
