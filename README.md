@@ -1,30 +1,19 @@
 ---
 
-# 🐢 Turtle Race Game (Python)
+# Turtle Race Game (Python)
 
 A simple **Turtle Race Game** built using Python’s **turtle graphics** module.
 In this game, the user places a bet on a turtle color, and six turtles race across the screen. The winner is chosen randomly based on movement speed.
 
----
 
-## 📌 Features
-
-* User can bet on a turtle color before the race starts
-* 6 turtles with different colors
-* Random movement for each turtle using Python `random` module
-* Simple race animation using `turtle` graphics
-* Displays win or lose result based on user’s bet
-
----
-
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python 3
 * Built-in `turtle` module
 * Built-in `random` module
 
 ---
-## 🎮 How to Play
+##  How to Play
 
 1. A popup asks you to enter a turtle color.
 2. Choose one of the following colors:
@@ -42,7 +31,7 @@ red, orange, blue, black, yellow, green
 
 ---
 
-## 🧠 Project Logic (Simple Explanation)
+## Project Logic (Simple Explanation)
 
 * Create a screen using `turtle.Screen()`
 * Generate 6 turtle objects using a loop
@@ -52,7 +41,7 @@ red, orange, blue, black, yellow, green
 * First turtle to cross the finish line wins
 ---
 
-## 🎓 Learning Outcomes
+##Learning Outcomes:
 
 This project helps beginners learn:
 
@@ -67,6 +56,3 @@ This project helps beginners learn:
 ## 👤 Author
 
 **NARAYANAN.M**
-
-
-Just tell me 👍.
